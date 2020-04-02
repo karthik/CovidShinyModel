@@ -1,0 +1,21 @@
+Package: COVIDModel
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "James",
+           family = "Peng",
+           role = c("aut", "cre"),
+           email = "james.peng@ucsf.edu")
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: shiny,
+		 shinyjs,
+		 shinyWidgets,
+		 data.table,
+		 ggplot2,
+		 DT,
+		 urlshorteneR
+RoxygenNote: 7.1.0
+
